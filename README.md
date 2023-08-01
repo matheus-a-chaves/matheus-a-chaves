@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <div>
-  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api?username=matheus-a-chaves&count_private=false&show_icons=true&theme=vue&locale=pt-br&include_all_commits=false"/>  
+  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api?username=matheus-a-chaves&count_private=false&show_icons=true&theme=vue&locale=pt-br&include_all_commits=true"/>  
   <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-a-chaves&layout=compact&langs_count=5&theme=vue&count_private=false" />
 
 </div>
